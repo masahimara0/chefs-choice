@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Chef's Choice",
+    "slug": "chefs-choice",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#0f0c29"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#0f0c29"
+      },
+      "package": "com.masahimara0.chefschoice",
+      "versionCode": 1
+    }
+  }
+}
